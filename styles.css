@@ -1,0 +1,62 @@
+body{
+	font-family: helvetica;
+	color: white;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background: url(fondo.jpg) no-repeat;
+	background-size: cover;
+}
+A{
+	text-decoration: none;
+	color: lightblue;
+}
+main{
+	width: 100%;
+	height: 100%;
+	margin-top: 40%;
+	margin-left: auto;
+}
+.Presentacion{
+	color: white;
+	font-size: 30px;
+	padding: 0;
+	margin-left: 0;
+	text-align: center;
+}
+#Hola{
+	font-size: 20px;
+	margin-left: 0;
+	text-align: center;
+}
+#Soy{
+	margin-left: 0;
+	text-align: center;
+}
+#Hobbie{
+	margin-left: 0;
+	text-align: center;
+}
+#Proyecto{
+	font-size: 20px;
+	margin-top: 40%;
+	margin-left: 0;
+	text-align: center;
+}
+#Seguime{
+	font-size: 20px;
+	margin-top: 0;
+	margin-left: 0;
+	text-align: center;
+}
+#Contacto{
+	text-align: center;
+	margin-top: 45%;
+	margin-left: 0;
+}
+footer{
+	text-align: center;
+	margin-top: 100%;
+	margin-bottom: 2%;
+	font-size: 20px;
+}
